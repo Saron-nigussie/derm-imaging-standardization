@@ -4,7 +4,7 @@
 **Department:** Biomedical Engineering  
 **Project type:** Independent undergraduate research  
 **Started:** May 2025  
-**Status:** Physics foundation study (pre-prototype phase)
+**Status:** Physics foundation study + computational pipeline operational — pre-prototype phase
 
 
 ## The Problem
